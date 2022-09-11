@@ -1,0 +1,56 @@
+.container {
+  background-color: white;
+  width: 350px;
+  height: 550px;
+  display: grid;
+  grid-template: 2fr 4fr / 1fr;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.image {
+  background-image: url("./images/illustration-hero.svg");
+  background-size: cover;
+}
+
+.text {
+  margin: 30px 20px;
+
+}
+
+.title {
+  font-weight: bolder;
+  font-size: 20px;
+  color: black;
+  margin-bottom: 15px;
+  
+}
+
+.plan {
+  margin: 15px 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid hsl(225, 100%, 98%);
+  padding: 15px 15px;
+  background-color: hsl(225, 100%, 98%);
+  border-radius: 10px;
+}
+
+.song {
+  display: flex;
+  gap: 10px;
+}
+
+.payment {
+  background-color: azure;
+  padding: 10px 15px;
+  font-size: 12px;
+  margin: 25px 10px;
+  border-radius: 10px;
+  font-weight: bold;
+  color: white;
+  background-color: hsl(245, 75%, 52%);
+  box-shadow: 0 5px hsl(245, 75%, 52%, 0.1);
+  
+}
