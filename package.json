@@ -2,7 +2,7 @@
   "name": "ordersummary",
   "version": "0.1.0",
   "private": true,
-  "homepage": "nitesik.github.io/OrderSummary",
+  "homepage": "https://nitesik.github.io/OrderSummary",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
