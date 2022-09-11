@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nitesik.github.io/OrderSummary/static/css/main.1f908944.css",
+    "main.js": "/nitesik.github.io/OrderSummary/static/js/main.c6165766.js",
+    "static/js/787.0def2e5d.chunk.js": "/nitesik.github.io/OrderSummary/static/js/787.0def2e5d.chunk.js",
+    "static/media/RedHatDisplay-Regular.ttf": "/nitesik.github.io/OrderSummary/static/media/RedHatDisplay-Regular.48bda87bb52837866926.ttf",
+    "static/media/RedHatDisplay-Bold.ttf": "/nitesik.github.io/OrderSummary/static/media/RedHatDisplay-Bold.89a56cdc034c1b9b470c.ttf",
+    "static/media/illustration-hero.svg": "/nitesik.github.io/OrderSummary/static/media/illustration-hero.7303258392501e7adc15.svg",
+    "index.html": "/nitesik.github.io/OrderSummary/index.html",
+    "static/media/pattern-background-mobile.svg": "/nitesik.github.io/OrderSummary/static/media/pattern-background-mobile.c8d50fcb68aa27a01e4d.svg",
+    "static/media/pattern-background-desktop.svg": "/nitesik.github.io/OrderSummary/static/media/pattern-background-desktop.5a0ab6898fc956557d00.svg",
+    "main.1f908944.css.map": "/nitesik.github.io/OrderSummary/static/css/main.1f908944.css.map",
+    "main.c6165766.js.map": "/nitesik.github.io/OrderSummary/static/js/main.c6165766.js.map",
+    "787.0def2e5d.chunk.js.map": "/nitesik.github.io/OrderSummary/static/js/787.0def2e5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f908944.css",
+    "static/js/main.c6165766.js"
+  ]
+}
